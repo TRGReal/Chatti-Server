@@ -1,0 +1,12 @@
+{
+	"debug": true,
+	"port": 6717,
+	"maxUsersOnAnIP": 5,
+	"chatMessages": {
+		"messageFormat": "[$nickname] $message",
+		"logMessages": true,
+		"broadcastOnKick": true,
+		"kickBroadcastChatMessage": "$nickname was kicked for the reason $reason.",
+		"consoleKickMessage": "$nickname [$ip] has been kicked due to $reason."
+	}
+}

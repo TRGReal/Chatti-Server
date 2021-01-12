@@ -1,0 +1,18 @@
+{
+  "name": "chatti-server",
+  "version": "1.0.0",
+  "description": "The Chatti Server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TRG",
+  "license": "ISC",
+  "dependencies": {
+    "beautify": "0.0.8",
+    "chalk": "^4.1.0",
+    "net": "^1.0.2",
+    "node-rsa": "^1.1.1",
+    "tor-test": "^0.2.1"
+  }
+}

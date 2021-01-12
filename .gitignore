@@ -1,0 +1,5 @@
+node_modules
+.tern-project
+SignatureKeyStore/private-key
+SignatureKeyStore/public-key
+plugins/disabled/*

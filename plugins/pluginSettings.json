@@ -1,0 +1,6 @@
+{
+    "torBlocking": {
+        "isEnabled": true,
+        "whitelistedAddresses": []
+    }
+}
