@@ -29,7 +29,6 @@ if (!fs.existsSync("./plugins/") || !fs.existsSync("./plugins/core/")) {
 	process.exit(1);
 }
 
-let test = new Date().getTime();
 var PluginManager = require('./utils/PluginManager.js');
 PluginManager.LogUtils = LogUtils;
 PluginManager.UserManager = UserManager;
